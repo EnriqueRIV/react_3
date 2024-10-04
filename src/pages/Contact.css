@@ -1,0 +1,8 @@
+.divContact {
+  background-color: khaki;
+  height: 90vh;
+  border-radius: 0 0 30px 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
